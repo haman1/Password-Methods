@@ -1,0 +1,4 @@
+  File "password-evolution.py", line 14
+    return 'Welcome to the hands-on lab for an evolution of password
+                                                                   ^
+SyntaxError: EOL while scanning string literal
